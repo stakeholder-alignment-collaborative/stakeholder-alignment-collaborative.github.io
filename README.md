@@ -4,13 +4,13 @@ The Stakeholder Alignment Collaborative is an eclective group of researchers of 
 
 The Collaborative has studied over 40 different systems.
 
-## [Current Projects](https://stakeholder-alignment-collaborative.github.io/projects/)
+## [Current Projects](https://stakeholder-alignment-collaborative.github.io/projects.md)
 
-## [Data](https://stakeholder-alignment-collaborative.github.io/data/)
+## [Data](https://stakeholder-alignment-collaborative.github.io/data.md)
 
-## [Publications](https://stakeholder-alignment-collaborative.github.io/publications/)
+## [Publications](https://stakeholder-alignment-collaborative.github.io/publications.md)
 
-## [Members of Our Collaborative](https://stakeholder-alignment-collaborative.github.io/members/)
+## [Members of Our Collaborative](https://stakeholder-alignment-collaborative.github.io/members.md)
 
 ### Contact
 
