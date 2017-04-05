@@ -10,7 +10,7 @@ The Collaborative has studied over 40 different systems.
 
 ## [Publications](https://stakeholder-alignment-collaborative.github.io/publications.md)
 
-## [Members of the Collaborative](https://stakeholder-alignment-collaborative.github.io/members)
+## [Members of the Collaborative](https://stakeholder-alignment-collaborative.github.io/members.html)
 
 ### Contact
 
